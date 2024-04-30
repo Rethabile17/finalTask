@@ -1,0 +1,88 @@
+body{
+    padding-left: 120px;
+    padding-right: 120px;
+    padding-top: 100px;
+    background-color: #e6eff6;
+}
+
+.main{
+    background-color: white;
+    padding-left: 20px;
+    height: 200px; 
+    
+}
+.Join{
+    color: #43acac;
+}
+.money{
+    color: #bfdf32;
+}
+#para{
+    width: 500px;
+}
+.para1{
+  width: 300px;
+  
+}
+.para2{
+    display: flex;
+    color: rgba(255, 255, 255, 0.676);
+    width: 203px;
+    
+  }
+
+.Us{
+    color: white;
+}
+
+.sub{
+    display: flex;
+    justify-content: center;
+    height: 270px;
+
+}
+.sub1{
+    background-color: #2bb3b1;
+    width: 50%;
+    padding-left: 20px;
+    
+  
+}
+.Subscription{
+    color:white;
+}
+
+.number{color: white;
+
+}
+.day{
+    color: white;
+}
+
+.Sign{
+    color: white;
+}
+.sub2{
+    background-color: #4abebd;
+    width: 50%;
+    padding-left: 20px;
+  
+}
+button{
+    width: 60%;
+    height: 40px;
+    background-color: #bfdf32;
+    color: #e6f0a8;
+    font-weight: 600;
+    Badding:8rem 0;
+}
+.para{
+    font-size: 16px;
+    font-weight: 400;
+    color: #b5b9c1;
+    width: 70%;
+}
+span{
+   color: #8debea; 
+   font-size: 18px;
+}
